@@ -1,9 +1,13 @@
+
+<img src="https://github.com/user-attachments/assets/ec6ef7ba-9168-4798-9e1c-320c35a99650" width="700">
+
 # 💰 Xpenses - Expense Tracker 📊
 
 Xpenses is a Single Page Application (SPA) developed using Vue 3 and Vite. It serves as an intuitive expenditure tracker designed to help users manage their daily expenses efficiently. The application leverages Vue's core features, including:
 
 - 🚀 **Vue Toastification** for user notifications
-- 💾 **State Management** with Local Storage for data persistence
+- 💾 **State Management** with Local Storage for data persistence![Uploading xpense-post.png…]()
+
 - 📉 **Chart.js** for visualizing expense data
 - 🔥 Other Vue 3 functionalities to enhance user experience
 
